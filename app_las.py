@@ -49,7 +49,7 @@ def main():
     html_temp = """ 
     <div style ="background-color:blue;padding:13px"> 
     <h1 style ="color:white;text-align:center;">SAE</h1> 
-    <h2 style ="color:white;text-align:center;">Sistema de Aprovação de Empréstimos - by Caio</h2> 
+    <h2 style ="color:white;text-align:center;">Projeto Uninove - Professdor Daniel</h2> 
     </div> 
     """
       
@@ -73,3 +73,4 @@ def main():
      
 if __name__=='__main__': 
     main()
+  
